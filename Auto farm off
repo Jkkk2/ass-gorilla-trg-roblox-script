@@ -1,4 +1,4 @@
-        _G.Autofarm = false
+        _G.Autofarm = true
 while _G.Autofarm == true do
 wait()
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-457, -67, 611)
