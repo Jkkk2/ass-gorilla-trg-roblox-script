@@ -2,4 +2,3 @@ _G.coin3 = true
         while _G.coin3 == true do
         wait(0.1)
         game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-41, 59, -104)
-end
